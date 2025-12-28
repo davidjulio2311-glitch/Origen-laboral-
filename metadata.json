@@ -1,0 +1,7 @@
+{
+  "name": "Origen Laboral - Maicao",
+  "description": "Una plataforma exclusiva de búsqueda de empleo para la región de Maicao, La Guajira, diseñada para conectar el talento local con oportunidades laborales.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
